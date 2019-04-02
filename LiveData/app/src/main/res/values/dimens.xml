@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeZero">0dp</dimen>
+    <dimen name="sizeEight">8dp</dimen>
+    <dimen name="sizeEighty">80dp</dimen>
+    <dimen name="sizeTwo">2dp</dimen>
+    <dimen name="sizeFive">5dp</dimen>
+</resources>
